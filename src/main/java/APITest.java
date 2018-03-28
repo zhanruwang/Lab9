@@ -13,6 +13,7 @@ import org.json.JSONObject;
  * Sample code showing usage of the Microsoft Cognitive Services API.
  */
 public class APITest {
+    
 
     /** Subscription key. Replace with your API key. */
     private static final String SUBSCRIPTION_KEY =
